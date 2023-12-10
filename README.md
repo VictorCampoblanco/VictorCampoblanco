@@ -1,3 +1,6 @@
+
+![bannerSDLI03](https://github.com/VictorCampoblanco/VictorCampoblanco/assets/152973049/acf33a00-9601-44e0-b7df-dd79012316ad)
+
 - 👋 Hi there, I’m @VictorCampoblanco
 - 👀 I’m a Sociologist who wants to become a *Data Scientist*
 - 🌱 I’m currently learning Python, SPSS and Statistics
